@@ -59,9 +59,7 @@ The system has been thoroughly tested with Postman:
 
 ##  Conclusion
 This CRM backend system successfully demonstrates robust backend development practices with secure authentication, efficient data management, and well-structured APIs. All assignment requirements have been implemented including JWT authentication, role-based access control, and complete CRUD operations for customer and case management.
-Base URL: http://localhost:3000/api
-Authentication: Add Authorization: Bearer <token> header to protected routes
----
+
 
 **Base URL:** `http://localhost:3000/api`  
 **Authentication:** Add `Authorization: Bearer <token>` header to protected routes
